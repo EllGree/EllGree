@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @EllGree
-- 👀 I’m interested in JS, TS, React, PHP, Node.js
+- 👀 I’m interested in JS, TS, React, Vue.js, Node.js, PHP, Laravel
 - 📫 How to reach me: ellgree@gmail.com
